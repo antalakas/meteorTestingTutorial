@@ -1,4 +1,4 @@
-Template.tutorials.helpers({
+/*Template.tutorials.helpers({
   canDelete: function() {
     return !this.currentCapacity;
   },
@@ -11,7 +11,23 @@ Template.tutorials.helpers({
   tutorialModel: function() {
     return new Tutorial(this._id, this.name, this.capacity, this.currentCapacity);
   }
-});
+});*/
+
+Template.tutorials.canDelete= function() {
+  return !this.currentCapacity;
+}
+
+Template.tutorials.canRegister = function() {
+  return this.currentCapacity < this.capacity && TutorialRegistrations.find({tutorialId: this._id}).count() == 0;
+}
+
+Template.tutorials.isRegistered = function() {
+  return TutorialRegistrations.find({tutorialId: this._id}).count() > 0;
+}
+
+Template.tutorials.tutorialModel = function() {
+  return new Tutorial(this._id, this.name, this.capacity, this.currentCapacity);
+}
 
 Template.tutorials.events({
   "click .registerForTutorial": function(e) {

@@ -25,7 +25,7 @@ describe("Tutorials template", function() {
     var route = _.findWhere(Router.routes, {name: "tutorials"});
     spyOn(Tutorials, "find").and.returnValue({});
 
-    var data = route.options.data();
+    var data = Router.current().data();
 
     expect(Tutorials.find).toHaveBeenCalled();
     expect(Tutorials.find.calls.mostRecent().args[0]).toEqual({});

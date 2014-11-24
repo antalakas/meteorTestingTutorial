@@ -7068,43 +7068,43 @@ var packageMetadata = {
               "type": "function",
               "refID": 27,
               "members": {
-                "/home/andreas/workspace/Tutorials/tests": {
+                "/home/action/workspace/meteorTestingTutorial/tests": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/client": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/server": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/server": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/client": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/client/integration": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/server/unit": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/server/unit": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/client/integration": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/client/integration/headerTemplateNomocksSpec.js": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/server/unit/package-stubs.js": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/client/integration/headerTemplateSpec.js": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/server/unit/packageMocksSpec.js": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/client/integration/tutorialIntegrationSpec.js": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/server/unit/tutorialDataModelSpec.js": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/client/integration/tutorialsTemplateSpec.js": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/client/integration/headerTemplateNomocksSpec.js": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/server/unit/package-stubs.js": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/client/integration/headerTemplateSpec.js": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/server/unit/packageMocksSpec.js": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/client/integration/tutorialIntegrationSpec.js": {
                   "type": "function"
                 },
-                "/home/andreas/workspace/Tutorials/tests/jasmine/server/unit/tutorialDataModelSpec.js": {
+                "/home/action/workspace/meteorTestingTutorial/tests/jasmine/client/integration/tutorialsTemplateSpec.js": {
                   "type": "function"
                 }
               }
@@ -7283,7 +7283,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/underscore.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/underscore.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7300,7 +7300,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
                 }
               }
             },
@@ -7309,7 +7309,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/meteor.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/meteor.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7326,7 +7326,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
                 }
               }
             },
@@ -7335,7 +7335,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/json.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/json.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7352,7 +7352,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/json.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/json.js.map"
                 }
               }
             },
@@ -7361,7 +7361,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/base64.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/base64.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7378,7 +7378,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/base64.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/base64.js.map"
                 }
               }
             },
@@ -7387,7 +7387,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ejson.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ejson.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7404,7 +7404,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
                 }
               }
             },
@@ -7413,7 +7413,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/logging.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/logging.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7430,7 +7430,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/logging.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/logging.js.map"
                 }
               }
             },
@@ -7439,7 +7439,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/reload.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/reload.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7456,7 +7456,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/reload.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/reload.js.map"
                 }
               }
             },
@@ -7465,7 +7465,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/tracker.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/tracker.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7482,7 +7482,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
                 }
               }
             },
@@ -7491,7 +7491,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/random.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/random.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7508,7 +7508,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/random.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/random.js.map"
                 }
               }
             },
@@ -7517,7 +7517,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/retry.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/retry.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7534,7 +7534,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/retry.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/retry.js.map"
                 }
               }
             },
@@ -7543,7 +7543,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/check.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/check.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7560,7 +7560,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/check.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/check.js.map"
                 }
               }
             },
@@ -7569,7 +7569,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/id-map.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/id-map.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7586,7 +7586,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
                 }
               }
             },
@@ -7595,7 +7595,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7612,7 +7612,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
                 }
               }
             },
@@ -7621,7 +7621,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7638,7 +7638,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
                 }
               }
             },
@@ -7647,7 +7647,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/minimongo.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/minimongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7664,7 +7664,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
                 }
               }
             },
@@ -7673,7 +7673,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ddp.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ddp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7690,7 +7690,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
                 }
               }
             },
@@ -7699,7 +7699,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7716,7 +7716,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
                 }
               }
             },
@@ -7725,7 +7725,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7742,7 +7742,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
                 }
               }
             },
@@ -7751,7 +7751,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/mongo.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/mongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7768,7 +7768,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
                 }
               }
             },
@@ -7777,7 +7777,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7794,7 +7794,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
                 }
               }
             },
@@ -7803,7 +7803,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7820,7 +7820,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
                 }
               }
             },
@@ -7829,7 +7829,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/localstorage.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/localstorage.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7846,7 +7846,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
                 }
               }
             },
@@ -7855,7 +7855,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/jquery.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/jquery.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7872,7 +7872,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
                 }
               }
             },
@@ -7881,7 +7881,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/deps.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/deps.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7898,7 +7898,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/deps.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/deps.js.map"
                 }
               }
             },
@@ -7907,7 +7907,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/htmljs.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/htmljs.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7924,7 +7924,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
                 }
               }
             },
@@ -7933,7 +7933,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7950,7 +7950,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
                 }
               }
             },
@@ -7959,7 +7959,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7976,7 +7976,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
                 }
               }
             },
@@ -7985,7 +7985,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/blaze.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/blaze.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8002,7 +8002,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
                 }
               }
             },
@@ -8011,7 +8011,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8028,7 +8028,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
                 }
               }
             },
@@ -8037,7 +8037,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/sha.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/sha.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8054,7 +8054,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/sha.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/sha.js.map"
                 }
               }
             },
@@ -8063,7 +8063,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/srp.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/srp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8080,7 +8080,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/srp.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/srp.js.map"
                 }
               }
             },
@@ -8089,7 +8089,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8106,7 +8106,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
                 }
               }
             },
@@ -8115,7 +8115,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/alanning_roles.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/alanning_roles.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8132,7 +8132,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/alanning_roles.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/alanning_roles.js.map"
                 }
               }
             },
@@ -8141,7 +8141,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ui.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ui.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8158,7 +8158,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ui.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ui.js.map"
                 }
               }
             },
@@ -8167,7 +8167,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/templating.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/templating.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8184,7 +8184,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/templating.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/templating.js.map"
                 }
               }
             },
@@ -8193,7 +8193,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_core.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8210,7 +8210,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
                 }
               }
             },
@@ -8219,7 +8219,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8236,7 +8236,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
                 }
               }
             },
@@ -8245,7 +8245,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8262,7 +8262,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
                 }
               }
             },
@@ -8271,7 +8271,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_url.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_url.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8288,7 +8288,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
                 }
               }
             },
@@ -8297,7 +8297,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8314,7 +8314,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
                 }
               }
             },
@@ -8323,7 +8323,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_location.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_location.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8340,7 +8340,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
                 }
               }
             },
@@ -8349,7 +8349,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8366,7 +8366,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
                 }
               }
             },
@@ -8375,7 +8375,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8392,7 +8392,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
                 }
               }
             },
@@ -8401,7 +8401,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_router.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_router.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8418,7 +8418,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
                 }
               }
             },
@@ -8427,7 +8427,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8444,7 +8444,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
                 }
               }
             },
@@ -8453,7 +8453,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/url.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/url.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8470,7 +8470,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/url.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/url.js.map"
                 }
               }
             },
@@ -8479,7 +8479,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/http.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/http.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8496,7 +8496,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/http.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/http.js.map"
                 }
               }
             },
@@ -8505,7 +8505,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8522,7 +8522,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
                 }
               }
             },
@@ -8531,7 +8531,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/amplify.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/amplify.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8548,7 +8548,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
                 }
               }
             },
@@ -8557,7 +8557,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/less.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/less.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8574,7 +8574,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/less.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/less.js.map"
                 }
               }
             },
@@ -8583,7 +8583,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8600,7 +8600,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
                 }
               }
             },
@@ -8609,7 +8609,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8626,7 +8626,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
                 }
               }
             },
@@ -8635,7 +8635,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8652,7 +8652,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3.js.map"
                 }
               }
             },
@@ -8661,7 +8661,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/session.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/session.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8678,7 +8678,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/session.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/session.js.map"
                 }
               }
             },
@@ -8687,7 +8687,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/handlebars.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/handlebars.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8704,7 +8704,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/handlebars.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/handlebars.js.map"
                 }
               }
             },
@@ -8713,7 +8713,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/stylus.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/stylus.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8730,7 +8730,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/stylus.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/stylus.js.map"
                 }
               }
             },
@@ -8739,7 +8739,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/anti_i18n.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/anti_i18n.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8756,7 +8756,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/anti_i18n.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/anti_i18n.js.map"
                 }
               }
             },
@@ -8765,7 +8765,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8782,7 +8782,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js.map"
                 }
               }
             },
@@ -8791,7 +8791,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/webapp.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/webapp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8808,7 +8808,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
                 }
               }
             },
@@ -8817,7 +8817,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/livedata.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8834,7 +8834,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
                 }
               }
             },
@@ -8843,7 +8843,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/spacebars.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/spacebars.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8860,7 +8860,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
                 }
               }
             },
@@ -8869,7 +8869,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8886,7 +8886,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
                 }
               }
             },
@@ -8895,7 +8895,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/global-imports.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/global-imports.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8911,7 +8911,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/admin/template.admin.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/admin/template.admin.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8927,7 +8927,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/application/template.access_denied.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/application/template.access_denied.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8943,7 +8943,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/application/template.layout.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/application/template.layout.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8959,7 +8959,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/application/template.loading.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/application/template.loading.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8975,7 +8975,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/application/template.template404.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/application/template.template404.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8991,7 +8991,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/header/template.header.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/header/template.header.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9007,7 +9007,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/introduction/template.introduction.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/introduction/template.introduction.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9023,7 +9023,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/tutorials/template.tutorials.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/tutorials/template.tutorials.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9039,7 +9039,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/lib/router.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/lib/router.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9055,7 +9055,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/lib/tutorialCollection.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/lib/tutorialCollection.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9071,7 +9071,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/lib/tutorialRegistrationsCollection.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/lib/tutorialRegistrationsCollection.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9087,7 +9087,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/admin/admin.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/admin/admin.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9103,7 +9103,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/views/tutorials/tutorials.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/views/tutorials/tutorials.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9119,7 +9119,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/app/client/main.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/app/client/main.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9135,7 +9135,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9152,7 +9152,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
                 }
               }
             },
@@ -9161,7 +9161,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/30c2cfabf3656b0d010eda8c6e526e5f3bb203ab.css"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/30c2cfabf3656b0d010eda8c6e526e5f3bb203ab.css"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9178,7 +9178,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/30c2cfabf3656b0d010eda8c6e526e5f3bb203ab.css.map"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/30c2cfabf3656b0d010eda8c6e526e5f3bb203ab.css.map"
                 }
               }
             },
@@ -9187,7 +9187,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9203,7 +9203,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9219,7 +9219,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9235,7 +9235,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.eot"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.eot"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9251,7 +9251,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.ttf"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.ttf"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9267,7 +9267,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.svg"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9283,7 +9283,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/andreas/workspace/Tutorials/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.woff"
+                  "value": "/home/action/workspace/meteorTestingTutorial/.meteor/local/build/programs/web.browser/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.woff"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9930,11 +9930,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "3c31181280ff79eb2ccc8f76a2587ec40e1b1a4b"
+          "value": "59435f20b2f0abe2f5acbe285edc537826548cdf"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "66d3427f1e3360a882ea9d88868fcb762bacda48"
+          "value": "4121f67307fcbcdd1ea9e5a081747fb654b8bd7a"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -10063,7 +10063,7 @@ var packageMetadata = {
             },
             "siteName": {
               "type": "constant",
-              "value": "localhost:3000"
+              "value": "waterline-146035.euw1-2.nitrousbox.com:3000"
             },
             "resetPassword": {
               "type": "object",
